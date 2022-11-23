@@ -15,11 +15,16 @@ body{
     height: 9em;
 }
 
-/*#boss{
-    margin-left: 250px;
+#boss{
+    
 }
-*/
 
 div{
-    align-self: flex;
+    align-self: flex-start;
+    border: thick double #32a1ce;
 }
+
+.images, div{
+    flex-wrap: nowrap;
+}
+
