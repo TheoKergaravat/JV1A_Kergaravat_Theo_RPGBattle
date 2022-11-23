@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://wallpaperaccess.com/full/8045532.png);
+    background-image: url(Images/8045532.png);
     background-repeat: no-repeat;
     background-position: center;
     height: 840px;
@@ -15,7 +15,11 @@ body{
     height: 9em;
 }
 
-#boss{
+/*#boss{
     margin-left: 250px;
 }
+*/
 
+div{
+    align-self: flex;
+}
